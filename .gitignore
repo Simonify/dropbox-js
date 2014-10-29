@@ -11,7 +11,6 @@ node_modules
 test/vendor
 
 # Build output.
-lib/dropbox.js
 lib/dropbox.min.js
 lib/dropbox.min.map
 samples/checkbox.js/public/lib
@@ -40,4 +39,3 @@ dropbox-*.tgz
 # Potentially sensitive credentials and keys used during testing.
 test/token
 test/ssl
-
